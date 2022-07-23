@@ -1,6 +1,6 @@
 # App recommendations
 
-[Internal Link to Others](/index#others) 
+[Internal Link to Others](/index/#others) 
 ## Office Suite
 
 Free alternative to MS Office [**Office suite** including word processor, spreadsheet program, presentations etc) [https://www.libreoffice.org/](https://www.libreoffice.org/ "https://www.libreoffice.org/") `foss` some suggestions & tips: *tools->options->language settings 
