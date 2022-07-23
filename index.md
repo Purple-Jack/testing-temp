@@ -1,5 +1,6 @@
 # App recommendations
 
+[Internal Link to Others](/index#others) 
 ## Office Suite
 
 Free alternative to MS Office [**Office suite** including word processor, spreadsheet program, presentations etc) [https://www.libreoffice.org/](https://www.libreoffice.org/ "https://www.libreoffice.org/") `foss` some suggestions & tips: *tools->options->language settings 
@@ -61,7 +62,7 @@ To read e-books and manage them on PC: [https://calibre-ebook.com/](https://cali
 
 PDF Arranger: [GitHub - pdfarranger/pdfarranger: Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.](https://github.com/pdfarranger/pdfarranger#readme "https://github.com/pdfarranger/pdfarranger#readme") `foss` you can 'cut' pages like right through them and rearrange them and do a lot more using this. This become really useful when you reading a scanned copy of something and you have to manually scroll here and there to continue reading so to avoid that use this and arrange the pages and make a better pdf.
 
-## Others:
+# Others:
 
 **Torrenting** [https://www.qbittorrent.org/](https://www.qbittorrent.org/ "https://www.qbittorrent.org/") `foss` [
 
